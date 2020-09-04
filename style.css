@@ -1,0 +1,72 @@
+body{
+    height: 95vh;
+}
+
+.all{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    /* padding-top: 15%;
+    padding-bottom: 15% */
+}
+   
+ h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* margin: auto;
+    text-align: center; */
+    color: white;
+    opacity: .5;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: center;
+    color: white;
+    opacity: .5;
+}
+body{
+   background-color: rgb(19, 19, 127);
+  
+}
+button{
+    /* margin: 40%;
+    text-align: center; */
+    padding: 10px;
+    /* width: 50px; */
+    border-radius: 40px;
+    outline: none;
+    cursor: pointer;
+    border:none;
+
+}
+a{
+    color: white;
+    opacity: .5;
+    text-decoration: none;
+    /* margin: auto;
+    text-align: center; */
+} 
+
+.sign form{
+    width: 50%;
+    margin: auto;
+}
+
+.input-box{
+    text-align: left;
+    border-bottom:1px solid white;
+    margin-bottom: 45px;
+}
+
+input{
+    border:none;
+    outline:none;
+    background-color: transparent;
+    color:white;
+    width: 80%;
+}
+
+.tick{
+    float:right;
+    color:orangered;
+}
